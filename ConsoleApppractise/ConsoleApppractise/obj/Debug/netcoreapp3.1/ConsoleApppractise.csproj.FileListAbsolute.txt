@@ -1,0 +1,14 @@
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\obj\Debug\netcoreapp3.1\ConsoleApppractise.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\obj\Debug\netcoreapp3.1\ConsoleApppractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\obj\Debug\netcoreapp3.1\ConsoleApppractise.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\obj\Debug\netcoreapp3.1\ConsoleApppractise.AssemblyInfo.cs
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\obj\Debug\netcoreapp3.1\ConsoleApppractise.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\bin\Debug\netcoreapp3.1\ConsoleApppractise.exe
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\bin\Debug\netcoreapp3.1\ConsoleApppractise.deps.json
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\bin\Debug\netcoreapp3.1\ConsoleApppractise.runtimeconfig.json
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\bin\Debug\netcoreapp3.1\ConsoleApppractise.runtimeconfig.dev.json
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\bin\Debug\netcoreapp3.1\ConsoleApppractise.dll
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\bin\Debug\netcoreapp3.1\ConsoleApppractise.pdb
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\obj\Debug\netcoreapp3.1\ConsoleApppractise.dll
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\obj\Debug\netcoreapp3.1\ConsoleApppractise.pdb
+C:\Users\99470\source\repos\ConsoleApppractise\ConsoleApppractise\obj\Debug\netcoreapp3.1\ConsoleApppractise.genruntimeconfig.cache

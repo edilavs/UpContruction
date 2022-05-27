@@ -1,0 +1,14 @@
+C:\Users\99470\source\repos\16HW\16HW\bin\Debug\netcoreapp3.1\16HW.exe
+C:\Users\99470\source\repos\16HW\16HW\bin\Debug\netcoreapp3.1\16HW.deps.json
+C:\Users\99470\source\repos\16HW\16HW\bin\Debug\netcoreapp3.1\16HW.runtimeconfig.json
+C:\Users\99470\source\repos\16HW\16HW\bin\Debug\netcoreapp3.1\16HW.runtimeconfig.dev.json
+C:\Users\99470\source\repos\16HW\16HW\bin\Debug\netcoreapp3.1\16HW.dll
+C:\Users\99470\source\repos\16HW\16HW\bin\Debug\netcoreapp3.1\16HW.pdb
+C:\Users\99470\source\repos\16HW\16HW\obj\Debug\netcoreapp3.1\16HW.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\16HW\16HW\obj\Debug\netcoreapp3.1\16HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\16HW\16HW\obj\Debug\netcoreapp3.1\16HW.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\16HW\16HW\obj\Debug\netcoreapp3.1\16HW.AssemblyInfo.cs
+C:\Users\99470\source\repos\16HW\16HW\obj\Debug\netcoreapp3.1\16HW.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\16HW\16HW\obj\Debug\netcoreapp3.1\16HW.dll
+C:\Users\99470\source\repos\16HW\16HW\obj\Debug\netcoreapp3.1\16HW.pdb
+C:\Users\99470\source\repos\16HW\16HW\obj\Debug\netcoreapp3.1\16HW.genruntimeconfig.cache

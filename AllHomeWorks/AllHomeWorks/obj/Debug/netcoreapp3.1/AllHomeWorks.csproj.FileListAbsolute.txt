@@ -1,0 +1,14 @@
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\bin\Debug\netcoreapp3.1\AllHomeWorks.exe
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\bin\Debug\netcoreapp3.1\AllHomeWorks.deps.json
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\bin\Debug\netcoreapp3.1\AllHomeWorks.runtimeconfig.json
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\bin\Debug\netcoreapp3.1\AllHomeWorks.runtimeconfig.dev.json
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\bin\Debug\netcoreapp3.1\AllHomeWorks.dll
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\bin\Debug\netcoreapp3.1\AllHomeWorks.pdb
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\obj\Debug\netcoreapp3.1\AllHomeWorks.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\obj\Debug\netcoreapp3.1\AllHomeWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\obj\Debug\netcoreapp3.1\AllHomeWorks.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\obj\Debug\netcoreapp3.1\AllHomeWorks.AssemblyInfo.cs
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\obj\Debug\netcoreapp3.1\AllHomeWorks.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\obj\Debug\netcoreapp3.1\AllHomeWorks.dll
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\obj\Debug\netcoreapp3.1\AllHomeWorks.pdb
+C:\Users\99470\source\repos\AllHomeWorks\AllHomeWorks\obj\Debug\netcoreapp3.1\AllHomeWorks.genruntimeconfig.cache

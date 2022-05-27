@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ENNSHamfA/Tf+zvkgv4e4r9nHvC84h0GxAlLx34zUYEc7hPqAvoCe3Wboo6/gEPvw2d9N5oEDd/TMIQFdZzHjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\99470\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\99470\\.nuget\\packages\\gremlin.net\\3.5.2\\gremlin.net.3.5.2.nupkg.sha512",
+    "C:\\Users\\99470\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\99470\\.nuget\\packages\\polly\\7.2.2\\polly.7.2.2.nupkg.sha512",
+    "C:\\Users\\99470\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\99470\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\99470\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

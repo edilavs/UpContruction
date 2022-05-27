@@ -1,0 +1,14 @@
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\bin\Debug\netcoreapp3.1\11. Polymorphism.exe
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\bin\Debug\netcoreapp3.1\11. Polymorphism.deps.json
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\bin\Debug\netcoreapp3.1\11. Polymorphism.runtimeconfig.json
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\bin\Debug\netcoreapp3.1\11. Polymorphism.runtimeconfig.dev.json
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\bin\Debug\netcoreapp3.1\11. Polymorphism.dll
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\bin\Debug\netcoreapp3.1\11. Polymorphism.pdb
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\obj\Debug\netcoreapp3.1\11. Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\obj\Debug\netcoreapp3.1\11. Polymorphism.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\obj\Debug\netcoreapp3.1\11. Polymorphism.AssemblyInfo.cs
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\obj\Debug\netcoreapp3.1\11. Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\obj\Debug\netcoreapp3.1\11. Polymorphism.dll
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\obj\Debug\netcoreapp3.1\11. Polymorphism.pdb
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\obj\Debug\netcoreapp3.1\11. Polymorphism.genruntimeconfig.cache
+C:\Users\99470\source\repos\HomeWorks(Start-8)\11. Polymorphism\obj\Debug\netcoreapp3.1\11. Polymorphism.csproj.AssemblyReference.cache

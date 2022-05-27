@@ -1,0 +1,14 @@
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\bin\Debug\netcoreapp3.1\9.Access Modifier-2.exe
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\bin\Debug\netcoreapp3.1\9.Access Modifier-2.deps.json
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\bin\Debug\netcoreapp3.1\9.Access Modifier-2.runtimeconfig.json
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\bin\Debug\netcoreapp3.1\9.Access Modifier-2.runtimeconfig.dev.json
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\bin\Debug\netcoreapp3.1\9.Access Modifier-2.dll
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\bin\Debug\netcoreapp3.1\9.Access Modifier-2.pdb
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\obj\Debug\netcoreapp3.1\9.Access Modifier-2.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\obj\Debug\netcoreapp3.1\9.Access Modifier-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\obj\Debug\netcoreapp3.1\9.Access Modifier-2.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\obj\Debug\netcoreapp3.1\9.Access Modifier-2.AssemblyInfo.cs
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\obj\Debug\netcoreapp3.1\9.Access Modifier-2.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\obj\Debug\netcoreapp3.1\9.Access Modifier-2.dll
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\obj\Debug\netcoreapp3.1\9.Access Modifier-2.pdb
+C:\Users\99470\source\repos\HomeWorks(Start-8)\9.Access Modifier-2\obj\Debug\netcoreapp3.1\9.Access Modifier-2.genruntimeconfig.cache

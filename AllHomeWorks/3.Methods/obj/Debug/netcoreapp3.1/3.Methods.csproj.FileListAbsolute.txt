@@ -1,0 +1,13 @@
+C:\Users\99470\source\repos\AllHomeWorks\3.Methods\bin\Debug\netcoreapp3.1\3.Methods.exe
+C:\Users\99470\source\repos\AllHomeWorks\3.Methods\bin\Debug\netcoreapp3.1\3.Methods.deps.json
+C:\Users\99470\source\repos\AllHomeWorks\3.Methods\bin\Debug\netcoreapp3.1\3.Methods.runtimeconfig.json
+C:\Users\99470\source\repos\AllHomeWorks\3.Methods\bin\Debug\netcoreapp3.1\3.Methods.runtimeconfig.dev.json
+C:\Users\99470\source\repos\AllHomeWorks\3.Methods\bin\Debug\netcoreapp3.1\3.Methods.dll
+C:\Users\99470\source\repos\AllHomeWorks\3.Methods\bin\Debug\netcoreapp3.1\3.Methods.pdb
+C:\Users\99470\source\repos\AllHomeWorks\3.Methods\obj\Debug\netcoreapp3.1\3.Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\AllHomeWorks\3.Methods\obj\Debug\netcoreapp3.1\3.Methods.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\AllHomeWorks\3.Methods\obj\Debug\netcoreapp3.1\3.Methods.AssemblyInfo.cs
+C:\Users\99470\source\repos\AllHomeWorks\3.Methods\obj\Debug\netcoreapp3.1\3.Methods.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\AllHomeWorks\3.Methods\obj\Debug\netcoreapp3.1\3.Methods.dll
+C:\Users\99470\source\repos\AllHomeWorks\3.Methods\obj\Debug\netcoreapp3.1\3.Methods.pdb
+C:\Users\99470\source\repos\AllHomeWorks\3.Methods\obj\Debug\netcoreapp3.1\3.Methods.genruntimeconfig.cache

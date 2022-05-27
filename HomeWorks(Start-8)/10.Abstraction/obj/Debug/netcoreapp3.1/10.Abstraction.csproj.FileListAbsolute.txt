@@ -1,0 +1,14 @@
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\bin\Debug\netcoreapp3.1\10.Abstraction.exe
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\bin\Debug\netcoreapp3.1\10.Abstraction.deps.json
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\bin\Debug\netcoreapp3.1\10.Abstraction.runtimeconfig.json
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\bin\Debug\netcoreapp3.1\10.Abstraction.runtimeconfig.dev.json
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\bin\Debug\netcoreapp3.1\10.Abstraction.dll
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\bin\Debug\netcoreapp3.1\10.Abstraction.pdb
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\obj\Debug\netcoreapp3.1\10.Abstraction.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\obj\Debug\netcoreapp3.1\10.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\obj\Debug\netcoreapp3.1\10.Abstraction.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\obj\Debug\netcoreapp3.1\10.Abstraction.AssemblyInfo.cs
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\obj\Debug\netcoreapp3.1\10.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\obj\Debug\netcoreapp3.1\10.Abstraction.dll
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\obj\Debug\netcoreapp3.1\10.Abstraction.pdb
+C:\Users\99470\source\repos\HomeWorks(Start-8)\10.Abstraction\obj\Debug\netcoreapp3.1\10.Abstraction.genruntimeconfig.cache
